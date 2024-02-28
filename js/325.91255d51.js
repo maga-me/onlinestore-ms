@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknike"]=self["webpackChunknike"]||[]).push([[325],{325:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var u=r(3396);function t(n,e){return(0,u.wg)(),(0,u.iD)("p",null," New Page ")}var a=r(89);const c={},i=(0,a.Z)(c,[["render",t]]);var f=i}}]);
+//# sourceMappingURL=325.91255d51.js.map
